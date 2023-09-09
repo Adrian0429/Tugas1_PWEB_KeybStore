@@ -63,7 +63,7 @@ ul {
 header {
   width: calc(100vw-1rem);
   height: 100vh;
-  background-image: url("./assets/KeybDc.jpg");
+  background-image: url("./assets/KeybDC.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
